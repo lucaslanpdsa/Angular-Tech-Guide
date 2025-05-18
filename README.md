@@ -1,6 +1,6 @@
 # Angular
 ## Nivel 1
-- [ ] **HTML - Fundamentos**:
+- [x] **HTML - Fundamentos**:
    - HTML é uma linguagem de marcação que define a estrutura do seu conteúdo. HTML consiste em uma série de elementos que você usa para mostrar algo de uma determinada maneira ou agir de uma certo modo. As tags podem criar um hiperlink de uma palavra ou imagem para outro lugar, podem colocar palavras em itálico, podem aumentar ou diminuir a fonte e assim por diante.
    - Aprender quais tags são necessárias para um HTML básico
    - Criar um parágrafo de texto
@@ -13,7 +13,7 @@
    - Conectar com um arquivo de CSS
    - Criar uma tabela
    - Adicionar IDs e classes
-- [ ] **CSS - Fundamentos**:
+- [x] **CSS - Fundamentos**:
    - Cascading Style Sheets (CSS) é uma linguagem usada para descrever a apresentação de um documento escrito em uma linguagem de marcação como HTML ou XML. CSS pode ser usado para estilos de texto de documentos muito básicos — por exemplo, para alterar a cor e o tamanho de títulos e links. Ele pode ser usado para criar um layout — por exemplo, transformar uma única coluna de texto em um layout com uma área de conteúdo principal e uma barra lateral para informações relacionadas. Pode até ser usado para efeitos como animações.
    - Aprender a estrutura visual de uma página, com 'margin' e 'padding'
    - Estabelecer o tamanho com 'width' e 'height'
@@ -28,7 +28,7 @@
    - Aprender box-sizing
    - Aprender Flexbox
    - Aprender Grid
-- [ ] **JavaScript - Fundamentos**:
+- [x] **JavaScript - Fundamentos**:
    - JavaScript é a linguagem de programação mais popular do mundo e é uma das principais tecnologias da World Wide Web, juntamente com HTML e CSS. Ela possui tipagem dinâmica, orientação a objetos baseada em protótipos e funções de primeira classe. Ela é multi-paradigma e suporta estilos de programação orientados a eventos, funcionais e imperativos.
    - Conhecer os tipos primitivos
    - Declarar variáveis, considerando a diferença entre 'var', 'let' e 'const'
@@ -41,14 +41,14 @@
    - Fazer um CRUD
    - Obter dados de uma API
    - Fazer chamadas assíncronas usando 'Async/Await', 'Promise', etc
-- [ ] **TypeScript - Fundamentos**:
+- [x] **TypeScript - Fundamentos**:
    - TypeScript é uma linguagem de programação fortemente tipada que se baseia em JavaScript.
    - Entender a fundo o que são tipos e a importância da tipagem
    - Aprender o que é o TypeScript, por que foi criado, como ele funciona e sua relação com o JavaScript
    - Conhecer as ferramentas do TypeScript (integração com o editor de código, verificador estático e compilador)
    - Escrever código em TypeScript com suas ferramentas (interfaces, enum, decorators, etc)
    - Desenvolver aplicações em TypeScript
-- [ ] **Angular - Fundamentos**:
+- [x] **Angular - Fundamentos**:
    - Angular é uma framework de construção de aplicações e plataforma de desenvolvimento construído em TypeScript para criar aplicações eficientes e sofisticadas de página única (SPA).
    - Construir interfaces utilizando HTML, CSS e TypeScript
    - Criar aplicações SPA
@@ -57,7 +57,7 @@
    - Utilizar a composição para criar componentes reutilizáveis
    - Utilizar serviços do tipo Resolver
    - Manipular requisições criando serviços do tipo Interceptor
-- [ ] **Conceitos de Orientação a Objetos**:
+- [x] **Conceitos de Orientação a Objetos**:
    - A Programação Orientada a Objetos é um paradigma de programação de software baseado na composição e interação entre diversas unidades chamadas de 'objetos' e as classes, que contêm uma identidade, propriedades e métodos). Ela é baseada em quatro componentes da programação: abstração digital, encapsulamento, herança e polimorfismo.
    - Como funcionam objetos
    - Criar e utilizar construtores
@@ -68,7 +68,7 @@
    - O que é polimorfismo
    - Como funcionam interfaces
    - O que são abstrações
-- [ ] **RxJS - Fundamentos**:
+- [x] **RxJS - Fundamentos**:
    - A RxJS é uma biblioteca para a composição de programas assíncronos e baseados em eventos, utilizando sequências observáveis. Ela fornece o tipo núcleo, o Observable, tipos satélite (Observer, Schedulers, Subjects) e operadores inspirados nos métodos Array (map, filter, reduce, every, etc.) para permitir a manipulação de eventos assíncronos como coleções.
    - Criar programas assíncronos
    - Criar programas baseados em eventos
@@ -91,11 +91,11 @@
    - Um serviço é uma categoria ampla que engloba qualquer valor, função ou funcionalidade que uma aplicação necessite. Um serviço é tipicamente uma classe com um propósito conciso e bem definido. O Angular distingue componentes de serviços, para aumentar a modularidade e a reusabilidade.
    - Criar dados que estarão sempre disponíveis
    - Dividir a aplicação web em diversas partes
-- [ ] **Angular - Roteamento**:
+- [x] **Angular - Roteamento**:
    - Navegar até um componente
    - Incluir um parâmetro de rota
    - Controlar o fluxo de navegação do seu usuário com guarda de rotas
-- [ ] **Angular - CLI (Interface de Linha de Comando)**:
+- [x] **Angular - CLI (Interface de Linha de Comando)**:
    - A Interface de Linha de Comando (CLI) do Angular é uma ferramenta de interface de linha de comando que você utiliza para inicializar, desenvolver, estruturar e manter aplicações Angular diretamente de um shell de comando.
    - Aprender a sintaxe 'ng [argumento-opcional] [opções]'
    - Conhecer os comandos mais importantes, como 'ng add', 'ng build', 'ng update', 'ng deploy', 'ng new', 'ng test', entre outros
@@ -116,7 +116,7 @@
    - Declarar quais services serão injetados
    - Aprender a modularizar uma aplicação
    - Carregar módulos como Lazy
-- [ ] **Angular - Injeção de Dependências**:
+- [x] **Angular - Injeção de Dependências**:
    - A injeção de dependência permite declarar as dependências de suas classes TypeScript sem cuidar de sua instanciação. Em vez disso, o Angular trata da instanciação para você. Este design pattern permite escrever um código mais testável e flexível.
    - Declarar as dependências de suas classes
    - Injetar dependências em um componente
@@ -145,7 +145,7 @@
    - Organizar o projeto em um Monorepo;
    - Usar o Storybook para documentar e testar os componentes criados.
 ## Habilidade Auxiliar: Infraestrutura e Back-end 
-- [ ] **Git e GitHub - Fundamentos**:
+- [x] **Git e GitHub - Fundamentos**:
    - Git é um sistema de controle de versão distribuído gratuito e de código aberto projetado para lidar com tudo, desde projetos pequenos a muito grandes com velocidade e eficiência.
    - GitHub é um serviço de hospedagem para desenvolvimento de software e controle de versão usando Git.
    - Criar um repositório
@@ -154,14 +154,14 @@
    - Reverter um commit
    - Criar branches e pul requests
    - Lidar com merge e conflitos
-- [ ] **HTTP - Fundamentos**:
+- [x] **HTTP - Fundamentos**:
    - HTTP significa Hyper Text Transfer Protocol. A comunicação entre computadores cliente e servidores web é feita enviando solicitações HTTP e recebendo respostas HTTP.
    - Entender a diferença dos verbos HTTP
    - Testar os requests e ver os status codes no navegador
    - Saber fazer uma requisição HTTP na linha de comando com WGET
    - Baixar uma imagem com WGET
    - Fazer um post
-- [ ] **JSON**:
+- [x] **JSON**:
    - JSON significa JavaScript Object Notation (notação de objeto JavaScript). É um formato de texto para armazenar e transmitir dados.
    - Criar um objeto
    - Transformar um objeto em uma string
